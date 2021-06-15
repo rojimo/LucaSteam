@@ -1,7 +1,7 @@
 package gui;
 
-public class MenuPrincipal {
-	public static void Menuprincipal() {
+public class MainMenu {
+	public static void Mainmenu() {
 		System.out.println("********************************************************");
 		System.out.println("*               BIENVENIDO A LUCASTEAM                 *");
 		System.out.println("*                                                      *");
